@@ -1,0 +1,18 @@
+.h1 ,  h1 ,  .bg-dark	{
+background-color	: darkgreen	!important	 ;
+}
+.container-fluid	,  col-lg-9 {
+background-color	:  darkseagreen	;
+border :  solid darkgreen	;
+}
+.col-lg-3	,  .col-lg-9	{
+border :  solid darkgoldenrod	5px ;
+padding-top	: 5px ;
+}
+.card-body	{
+margin-bottom	:  5px   ;
+}
+.today ,  .card {
+background-color	:  lightblue	!important	;
+color :  black !important	;
+}
